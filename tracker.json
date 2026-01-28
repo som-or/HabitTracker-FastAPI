@@ -1,0 +1,89 @@
+{
+  "H001": {
+    "habit": "Morning Walk",
+    "description": "Walk for at least 20 minutes every morning.",
+    "frequency": "Daily",
+    "start_date": "2026-01-01",
+    "reminder_time": "06:30",
+    "logs": [
+      "2026-01-07",
+      "2026-01-06",
+      "2026-01-05",
+      "2026-01-04",
+      "2026-01-03",
+      "2026-01-02",
+      "2026-01-01"
+    ],
+    "latest_streak": 7,
+    "longest_streak": 7
+  },
+  "H002": {
+    "habit": "Drink Water",
+    "description": "Drink 2L water daily (8–10 glasses).",
+    "frequency": "Daily",
+    "start_date": "2026-01-01",
+    "reminder_time": "09:00",
+    "logs": [
+      "2026-01-07",
+      "2026-01-06",
+      "2026-01-03",
+      "2026-01-02",
+      "2026-01-01"
+    ],
+    "latest_streak": 2,
+    "longest_streak": 3
+  },
+  "H003": {
+    "habit": "Read Books",
+    "description": "Read for at least 20 minutes every day.",
+    "frequency": "Daily",
+    "start_date": "2026-01-01",
+    "reminder_time": "20:00",
+    "logs": [
+      "2026-01-06",
+      "2026-01-05",
+      "2026-01-03",
+      "2026-01-02",
+      "2026-01-01"
+    ],
+    "latest_streak": 2,
+    "longest_streak": 3
+  },
+  "H004": {
+    "habit": "Meditate",
+    "description": "Practice mindfulness meditation for 10 minutes.",
+    "frequency": "Daily",
+    "start_date": "2026-01-07",
+    "reminder_time": "06:00",
+    "logs": [
+      "2026-01-07"
+    ],
+    "latest_streak": 1,
+    "longest_streak": 1
+  },
+  "H005": {
+    "habit": "Sleep Early",
+    "description": "Go to bed by 22:35 to ensure adequate rest.",
+    "frequency": "Daily",
+    "start_date": null,
+    "reminder_time": "22:00",
+    "logs": [],
+    "latest_streak": 0,
+    "longest_streak": 0
+  },
+  "H006": {
+    "habit": "Study",
+    "description": "Study for the exam every Saturday.",
+    "frequency": "Wed",
+    "start_date": "2025-12-10",
+    "reminder_time": "19:35",
+    "logs": [
+      "2025-12-31",
+      "2025-12-24",
+      "2025-12-17",
+      "2025-12-10"
+    ],
+    "latest_streak": 4,
+    "longest_streak": 4
+  }
+}
